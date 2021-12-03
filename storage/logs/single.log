@@ -69,3 +69,14 @@
 2021-12-03 19:18:30 - WARNING - Python-dotenv could not parse statement starting at line 26
 2021-12-03 19:18:30 - INFO - "DELETE /blogs/4 HTTP/1.1" 200 129
 2021-12-03 19:18:30 - INFO - "GET /blogs HTTP/1.1" 200 428
+2021-12-03 19:24:11 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 19:24:11 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 19:24:11 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 19:24:11 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 19:24:11 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 19:24:11 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 19:24:11 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 19:24:11 - INFO - "GET /blogs/ HTTP/1.1" 200 428
+2021-12-03 19:24:11 - INFO - "POST /blogs/ HTTP/1.1" 200 126
+2021-12-03 19:24:11 - INFO - "POST /blogs/ HTTP/1.1" 200 126
+2021-12-03 19:24:20 - ERROR - ContainerError in 0 on line 0
